@@ -1,0 +1,15 @@
+.square {
+    width: 34px;
+    height: 34px;
+    border: 1px solid black;
+}
+
+.square:hover {
+    background-color: lightblue;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+}
